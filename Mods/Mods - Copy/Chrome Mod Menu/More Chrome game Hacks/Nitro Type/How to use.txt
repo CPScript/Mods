@@ -1,0 +1,12 @@
+1: Download the Tampermonkey extention
+2: open the extention then click dashboard
+3: Click new 
+4: Paist the script into the editor
+5: Click file
+6: click save 
+7: load nitro type and have fun
+
+============
+
+You can also download my auto typer (types 1 key)
+

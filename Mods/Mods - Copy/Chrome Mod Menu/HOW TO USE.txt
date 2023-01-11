@@ -1,0 +1,23 @@
+How to use: (Please read below)
+
+once installed Click on the bookmark 
+PLEASE NOTE: it only works on websites that can run javascript, not all website allow this.
+
+=======================================
+
+How to install modmenu:
+
+Welcome to the Golden Mod Menu
+This is a turtorial on how to install...
+
+First: Go to the folder called c:/Downloads/Chrome Mod Menu/Mod Menu.txt
+second: Copy and ALL of the text thats in the .txt file
+third: Open chrome and click The star thats on the far left of the https:// bar AKA the search bar.
+Next: Once clicked press the button "More..."
+Then: In the URL Text box PAIST the javascript form the Mod Menu File
+Last: Name the file Golden Mod Menu (or what ever you want)
+
+=======================================
+
+
+HAVE FUN!!!!!!!

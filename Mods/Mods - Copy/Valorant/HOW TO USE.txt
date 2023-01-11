@@ -1,0 +1,2 @@
+Once valorant is launched drag the dll file into the EXE and it will open the menu,
+have fun

